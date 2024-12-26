@@ -78,7 +78,7 @@ Personel kullanıcıları aşağıdaki işlemleri gerçekleştirebilir:
 - **Kayıp Kitap Bildir:** Kayıp bir kitabı sisteme bildirebilir.
 - **Kitapları Sırala:** Kitapları ada veya yayın tarihine göre sıralayabilir.
 
-## Katkıda Bulunanlar
+## Proje Ekibi
 
-- **Didem Gümüş:** [GitHub Profiliniz](https://github.com/DidemGumus) 
-- **Mehmet El Ahmed:** [GitHub Profili](#) 
+- **Didem Gümüş:** [GitHub Profili](https://github.com/DidemGumus) 
+- **Mehmet El Ahmed:** [GitHub Profili](https://github.com/jihaad-an) 
