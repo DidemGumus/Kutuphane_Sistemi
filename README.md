@@ -80,5 +80,5 @@ Personel kullanıcıları aşağıdaki işlemleri gerçekleştirebilir:
 
 ## Katkıda Bulunanlar
 
-- **Adınız Soyadınız:** [GitHub Profiliniz](#) - Proje geliştiricisi
-- **Arkadaşınızın Adı Soyadı:** [GitHub Profili](#) - Proje katkıcısı
+- **Didem Gümüş:** [GitHub Profiliniz](https://github.com/DidemGumus) 
+- **Mehmet El Ahmed:** [GitHub Profili](#) 
