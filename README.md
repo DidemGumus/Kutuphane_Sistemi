@@ -81,4 +81,4 @@ Personel kullanıcıları aşağıdaki işlemleri gerçekleştirebilir:
 ## Proje Ekibi
 
 - **Didem Gümüş:** [GitHub Profili](https://github.com/DidemGumus) 
-- **Mehmet El Ahmed:** [GitHub Profili](https://github.com/jihaad-an) 
+- **Kadir Ir:** [GitHub Profili](https://github.com/KadirIR)
